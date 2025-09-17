@@ -8,7 +8,7 @@
 
 (Complétez ici avec la description du projet présentée en classe.)
 
-<img src="./assets/img/Schema Architecture Eatsmart a completer.png">
+<img src="./assets/img/Schema Architecture Eatsmart a completer.PNG">
 
 ---
 
