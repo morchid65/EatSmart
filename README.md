@@ -81,7 +81,7 @@ EatSmart est une application web conçue pour faciliter la gestion d’activité
 
 | **Composant**       | **Technologies prévues**        |
 |---------------------|----------------------------------|
-| **Frontend**        | PHP, HTML, CSS, JavaScript       |
+| **Frontend**        | PHP      |
 | **Backend**         | PHP (avec ou sans framework)     |
 | **Base de données** | MySQL                           |
 
