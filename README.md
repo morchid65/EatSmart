@@ -52,7 +52,7 @@
 
 (Complétez ici avec la description du projet présentée en classe.)
 
-<img src="./assets/img/Creation-MCD-MLD-EatSmart.png">
+<img src="./Creation-MCD-MLD-EatSmart.png">
 
 ---
 
