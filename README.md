@@ -80,8 +80,8 @@ EatSmart est une application web dédiée à la nutrition intelligente. Elle per
 
 | **Composant**       | **Technologies prévues**                          |
 |---------------------|---------------------------------------------------|
-| **Frontend**        | React.js, Tailwind CSS, Axios                     |
-| **Backend**         |PHP |
+| **Frontend**        | PHP                    |
+| **Backend**         | |
 | **Base de données** | MySQL     |
 
 ---
