@@ -81,7 +81,7 @@ EatSmart est une application web dédiée à la nutrition intelligente. Elle per
 | **Composant**       | **Technologies prévues**                          |
 |---------------------|---------------------------------------------------|
 | **Frontend**        | PHP                    |
-| **Backend**         | |
+| **Backend**         | BDD |
 | **Base de données** | MySQL     |
 
 ---
