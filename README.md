@@ -53,6 +53,8 @@ Parfait, voici une version complète et cohérente de la documentation du projet
 
 EatSmart est une application web conçue pour faciliter la gestion d’activités quotidiennes dans un environnement professionnel ou personnel. Elle permet aux utilisateurs de créer des comptes, gérer des tâches ou des événements, et suivre l’évolution de leurs actions via un tableau de bord interactif. Le projet vise à mettre en œuvre une architecture claire entre le frontend, le backend et la base de données, en appliquant les concepts de MCD (Modèle Conceptuel de Données) et MLD (Modèle Logique de Données).
 
+<img src="Creation-MCD-MLD-EatSmart.PNG">
+
 ---
 
 ### **3. Fonctionnalités principales**
