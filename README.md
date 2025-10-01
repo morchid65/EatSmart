@@ -115,12 +115,16 @@ L’objectif de cette séance est de mettre en pratique les concepts de modélis
 
 ## Endpoints de l'API
 
-Adresse de l'API (en local) : http://localhost/____
+Adresse de l'API (en local) : http://localhost/bruno-api-eatsmart
 
 Voici les différents endpoints de l'API : 
 - `GET /articles` → Afficher la liste des articles
 - `GET /articles/{id}` → Afficher l'article avec l'id égal à {id}
 - `GET /categories` → Afficher la liste des catégories
-- `GET __________` → Afficher la catégorie avec l'id égal à {id}
-- `GET __________` → Afficher la liste des commandes
-- `GET __________` → Afficher la commande avec l'id égal à {id}
+- `GET /categories/{id}` → Afficher la catégorie avec l'id égal à {id}
+- `GET /commandes` → Afficher la liste des commandes
+- `GET /commandes/{id}` → Afficher la commande avec l'id égal à {id}
+- `GET /clients` → Afficher la liste des clients
+- `GET /clients/{id}` → Afficher le client avec l'id égal à {id}
+- `GET /chauffeurs` → Afficher la liste des chauffeurs
+- `GET /chauffeurs/{id}` → Afficher le chauffeur avec l'id égal à {id}
