@@ -115,7 +115,7 @@ L’objectif de cette séance est de mettre en pratique les concepts de modélis
 
 ## Endpoints de l'API
 
-Adresse de l'API (en local) : http://localhost/bruno-api-eatsmart
+Adresse de l'API (en local) : http://localhost/jebril1-api-eatsmart
 
 Voici les différents endpoints de l'API : 
 - `GET /articles` → Afficher la liste des articles
